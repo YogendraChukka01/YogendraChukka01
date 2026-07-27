@@ -11,25 +11,21 @@
 
 ### 🧑‍💻 &nbsp;**About Me**
 
-```python
-class YogendraChukka:
-    def __init__(self):
-        self.role = "AI Agent Builder"
-        self.languages = ["Python", "TypeScript", "Go"]
-        self.focus = "Building autonomous AI systems that are secure, explainable, and production-ready"
-        self.interests = ["Multi-Agent Systems", "RAG", "LLM Orchestration", "Developer Tools"]
-        self.philosophy = "AI should amplify human capability, not replace it"
 
-    def currently_building(self):
-        return [
-            "🤖 AdaptiveAgent — Agentic RAG platform",
-            "🧠 ARU CLI — Universal AI agent orchestrator",
-            "🏗️ Chief-AI — Multi-agent orchestrator (55 agents)",
-            "🎓 PedagogyGuard — AI as a learning engine",
-        ]
+```
+       python
 
-    def say_hello(self):
-        return "Thanks for visiting! Let's build something amazing together. 🚀"
+        Role: AI Agent Builder
+        Core Philosophy: 'AI should amplify human capability, not replace it'
+        
+        --- Current Projects ---
+        🤖 AdaptiveAgent — Agentic RAG platform
+        🧠 ARU CLI — Universal AI agent orchestrator
+        🏗️ Chief-AI — Multi-agent orchestrator (55 agents)
+        🎓 PedagogyGuard — AI as a learning engine
+        
+        Thanks for visiting! Let's build something amazing together. 🚀
+
 ```
 
 ---
