@@ -36,7 +36,7 @@ Operating out of India, I am actively contributing to open-source AI tooling and
 | :--- | :--- | :--- |
 | **[Chief-AI](https://github.com/YogendraChukka01/Chief-AI)** | Multi-agent orchestrator with 11 departments & 55 specialist agents | `Python`, `pydantic-ai` |
 | **[pedagogyguard-ai](https://github.com/YogendraChukka01/pedagogyguard-ai)** | VS Code extension transforming AI assistants via the Socratic method | `TypeScript` |
-| **[voice-assistant](https://github.com/YogendraChukka01/voice-assistant)** | Voice-controlled desktop automation, TTS, and browser control | `Python` |
+| **[voice-assistant](https://github.com/YogendraChukka01/voice-assistant-python)** | Voice-controlled desktop automation, TTS, and browser control | `Python` |
 | **[Portable-Opencode](https://github.com/YogendraChukka01/Portable-Opencode)** | Zero-install, portable USB edition of OpenCode for Win/Linux | `Batchfile` |
 | **[Nephy-Agent](https://github.com/YogendraChukka01/Nephy-Agent)** | Experimental AI agent framework (Active Development) | `—` |
 
@@ -72,12 +72,12 @@ Operating out of India, I am actively contributing to open-source AI tooling and
 
 <p align="left">
   <a href="mailto:yogendrachukka01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yogendrachukka01.github.io/Yogendra-Portfolio/">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" />
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/yogendrachukka/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/yogendrachukka">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
