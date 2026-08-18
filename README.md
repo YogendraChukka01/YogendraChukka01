@@ -2,7 +2,11 @@
 
 **AI Software Engineer | AI Agent Developer | Full-Stack Developer**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) [![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=ai&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,fastapi,nextjs,tailwind,docker,supabase,vercel,github,figma&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 Building intelligent systems that bridge complex backends with intuitive, premium interfaces.
 
@@ -32,7 +36,7 @@ Operating out of India, I am actively contributing to open-source AI tooling and
 | :--- | :--- | :--- |
 | **[Chief-AI](https://github.com/YogendraChukka01/Chief-AI)** | Multi-agent orchestrator with 11 departments & 55 specialist agents | `Python`, `pydantic-ai` |
 | **[pedagogyguard-ai](https://github.com/YogendraChukka01/pedagogyguard-ai)** | VS Code extension transforming AI assistants via the Socratic method | `TypeScript` |
-| **[voice-assistant](https://github.com/YogendraChukka01/voice-assistant-python)** | Voice-controlled desktop automation, TTS, and browser control | `Python` |
+| **[voice-assistant](https://github.com/YogendraChukka01/voice-assistant)** | Voice-controlled desktop automation, TTS, and browser control | `Python` |
 | **[Portable-Opencode](https://github.com/YogendraChukka01/Portable-Opencode)** | Zero-install, portable USB edition of OpenCode for Win/Linux | `Batchfile` |
 | **[Nephy-Agent](https://github.com/YogendraChukka01/Nephy-Agent)** | Experimental AI agent framework (Active Development) | `—` |
 
@@ -67,6 +71,7 @@ Operating out of India, I am actively contributing to open-source AI tooling and
 ### ✦ Connect & Collaborate
 
 <p align="left">
-<a href="mailto:yogendrachukka01@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://yogendrachukka01.github.io/Yogendra-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/yogendrachukka/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
