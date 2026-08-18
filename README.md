@@ -77,7 +77,7 @@ Operating out of India, I am actively contributing to open-source AI tooling and
   <a href="https://yogendrachukka01.github.io/Yogendra-Portfolio/">
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+  <a href="https://www.linkedin.com/in/yogendrachukka/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
 </p>
