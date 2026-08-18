@@ -14,7 +14,7 @@ AI Software Engineer | AI Agent Developer | Full-Stack Developer
 
 I build AI agents and agentic systems that work. My focus is on production-grade agentic RAG platforms, multi-agent orchestration, and full-stack applications that bridge intelligent backends with intuitive interfaces.
 
-Based in Remote, I'm actively contributing to open-source AI tooling and developer infrastructure.
+Based in Remote, I'm actively contributing to open-source AI tooling and developer infrastructure. 
 
 ## Featured Projects
 
