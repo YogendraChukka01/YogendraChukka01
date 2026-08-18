@@ -71,7 +71,13 @@ Operating out of India, I am actively contributing to open-source AI tooling and
 ### ✦ Connect & Collaborate
 
 <p align="left">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/yogendrachukka/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yogendrachukka01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
+  <a href="https://yogendrachukka01.github.io/Yogendra-Portfolio/">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
 </p>
