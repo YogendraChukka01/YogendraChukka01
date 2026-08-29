@@ -1,83 +1,109 @@
 # ✦ Yogendra Chukka (Yogi)
 
-**AI Software Engineer | AI Agent Developer | Full-Stack Developer**
+**AI Engineer · Agentic AI · RAG · AI Infrastructure**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,fastapi,nextjs,tailwind,docker,supabase,vercel,github,figma&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,ts,fastapi,nextjs,tailwind,docker,postgres,supabase,github,figma&theme=light" alt="Technology stack" />
   </a>
 </p>
 
-Building intelligent systems that bridge complex backends with intuitive, premium interfaces.
-
----
-
-### ✺ About Me
-
-I design and engineer production-grade AI agents and agentic workflows. My engineering focus lies in architecting robust Agentic RAG platforms, orchestrating multi-agent environments, and developing full-stack applications with a meticulous eye for modern, minimalist design. 
-
-Operating out of India, I am actively contributing to open-source AI tooling and exploring the frontiers of autonomous developer infrastructure.
-
----
-
-### ✦ Featured Architecture
-
-**[AdaptiveAgent](https://github.com/YogendraChukka01/AdaptiveAgent)**
-> *Production-grade Agentic RAG platform*
-> - Engineered a 14-node LangGraph pipeline.
-> - Integrated multi-provider LLM support and LLM-as-judge evaluation.
-> - Built with Python, FastAPI, and Next.js 15 (94 passing tests & CI integration).
-
----
-
-### ✺ Engineering Portfolio
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Chief-AI](https://github.com/YogendraChukka01/Chief-AI)** | Multi-agent orchestrator with 11 departments & 55 specialist agents | `Python`, `pydantic-ai` |
-| **[pedagogyguard-ai](https://github.com/YogendraChukka01/pedagogyguard-ai)** | VS Code extension transforming AI assistants via the Socratic method | `TypeScript` |
-| **[voice-assistant](https://github.com/YogendraChukka01/voice-assistant-python)** | Voice-controlled desktop automation, TTS, and browser control | `Python` |
-| **[Portable-Opencode](https://github.com/YogendraChukka01/Portable-Opencode)** | Zero-install, portable USB edition of OpenCode for Win/Linux | `Batchfile` |
-| **[Nephy-Agent](https://github.com/YogendraChukka01/Nephy-Agent)** | Experimental AI agent framework (Active Development) | `—` |
-
----
-
-### ✦ Technical Arsenal
-
-- **Agentic Systems:** LangGraph, Multi-Agent Orchestration, RAG Architectures, LLM-as-Judge
-- **Backend Infrastructure:** Python, FastAPI, Pydantic, REST APIs, Supabase
-- **Frontend & UI:** Next.js 15, TypeScript, Tailwind CSS, Minimalist UI/UX
-- **AI Tooling:** OpenAI, Claude, Multi-provider Integration, VS Code Extensions
-- **DevOps & Cloud:** Docker, GitHub Actions, Vercel
-
----
-
-### ✺ Current Focus
-
-- 🏗️ **Architecting** the core mechanics of *Nephy-Agent*.
-- ⚡ **Scaling** *AdaptiveAgent* with advanced evaluation frameworks and wider provider integrations.
-
----
-
-### ✦ Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogendraChukka01&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" alt="Yogi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogendraChukka01&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a3a3a3" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### ✦ Connect & Collaborate
+I build **agentic AI systems, RAG infrastructure, and developer tools** with a focus on reliability, evaluation, and production-oriented engineering.
 
 <p align="left">
-  <a href="mailto:yogendrachukka01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/yogendrachukka">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/YogendraChukka01"><img src="https://img.shields.io/github/followers/YogendraChukka01?label=Followers&style=flat" alt="GitHub followers" /></a>
+  <a href="https://github.com/YogendraChukka01?tab=repositories"><img src="https://img.shields.io/badge/Focus-Agentic%20AI-blue?style=flat" alt="Focus Agentic AI" /></a>
+  <a href="https://github.com/YogendraChukka01/AdaptiveAgent"><img src="https://img.shields.io/github/stars/YogendraChukka01/AdaptiveAgent?style=flat" alt="AdaptiveAgent stars" /></a>
 </p>
+
+---
+
+## 🚀 Flagship Projects
+
+### [AdaptiveAgent](https://github.com/YogendraChukka01/AdaptiveAgent)
+**Agentic RAG platform for context-aware assistants on private knowledge bases.**
+
+- LangGraph reasoning and retrieval pipeline
+- Multi-provider LLM architecture with local-first inference
+- Evidence, confidence, risk, and evaluation stages
+- FastAPI + Next.js + PostgreSQL + vector stores
+- Automated testing and CI
+
+### [Chief-AI](https://github.com/YogendraChukka01/Chief-AI)
+**Multi-agent orchestration system** designed around specialized AI departments and agents.
+
+### [Nephy-Agent](https://github.com/YogendraChukka01/Nephy-Agent)
+**Experimental agent framework** focused on the mechanics and infrastructure behind autonomous AI workflows.
+
+### [Portable-Opencode](https://github.com/YogendraChukka01/Portable-Opencode)
+**Portable AI developer environment** designed to run OpenCode across systems without a conventional installation.
+
+### [pedagogyguard-ai](https://github.com/YogendraChukka01/pedagogyguard-ai)
+**VS Code extension** that uses the Socratic method to make AI-assisted learning more deliberate.
+
+---
+
+## 🧠 Engineering Focus
+
+- **Agentic AI:** LangGraph, multi-agent orchestration, tool calling, planning
+- **RAG:** retrieval pipelines, embeddings, reranking, evaluation, grounded generation
+- **LLM Systems:** local models, multi-provider routing, fallback strategies, LLM evaluation
+- **Backend:** Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, REST APIs
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **Infrastructure:** Docker, GitHub Actions, Redis, vector databases
+- **Developer Tools:** CLI tooling, VS Code extensions, portable AI environments
+
+---
+
+## 🏗️ How I Build
+
+```text
+Problem
+  ↓
+Architecture
+  ↓
+Prototype
+  ↓
+Tests + Evaluation
+  ↓
+Observability
+  ↓
+Deployment
+  ↓
+Iteration
+```
+
+I care about more than getting an AI demo working: **reproducibility, measurable quality, failure handling, and maintainability** matter too.
+
+---
+
+## 🔬 Current Focus
+
+- Building reliable agentic AI infrastructure
+- Improving RAG evaluation and retrieval quality
+- Exploring autonomous developer tooling
+- Contributing to open-source AI projects
+- Turning experimental AI systems into reproducible engineering projects
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YogendraChukka01&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogendraChukka01&layout=compact&hide_border=true&theme=transparent" alt="Top languages" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yogendrachukka"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/YogendraChukka01"><img src="https://img.shields.io/badge/GitHub-YogendraChukka01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://yogendra-portfolio-git-main-aru7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+> **Building AI systems that are useful, measurable, and engineered to last.**
