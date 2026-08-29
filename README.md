@@ -99,7 +99,7 @@ I care about more than getting an AI demo working: **reproducibility, measurable
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yogendrachukka"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yogendra-chukka-a72b61367"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/YogendraChukka01"><img src="https://img.shields.io/badge/GitHub-YogendraChukka01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://yogendra-portfolio-git-main-aru7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
